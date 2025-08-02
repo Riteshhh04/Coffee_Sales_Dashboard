@@ -22,7 +22,7 @@ The project contains **three key pages**, each focusing on different dimensions 
 - Top customers by sales
 
 📍 **Preview:**
-![Customer Time Patterns](Dashboard_images/Customer_time_patterns)
+![Customer Time Patterns](./Dashboard_images/Customer_time_patterns)
 
 ### 3. **Product & Payment Insights**
 - Average order value and total revenue per coffee category
@@ -37,17 +37,18 @@ The project contains **three key pages**, each focusing on different dimensions 
 ```
 Coffee-Sales-Dashboard/
 │
-├── Dashboard_images/
-│   └── Customer_time_patterns.png
+├── Dashboard_images/          # Contains all dashboard screenshots
+│   ├── Customer_time_patterns.png
+│   ├── Coffee_sales_summary.png
+│   └── product_and_payment_insights.png
+├── logo/                      # Logo assets
 │
-├── PowerBI_Files/
-│   └── Coffee_Sales_Report.pbix
-│
-├── Themes/
-│   ├── Classic_Coffee_Blend.json
-│   └── Modern_Mocha_UI.json
-│
-└── README.md
+├── Cleaned_Dataset.csv        # Cleaned dataset used for analysis
+├── Dataset.csv                # Raw dataset
+├── cleaning.ipynb             # Notebook for data preprocessing
+├── coffee_sales_dashboard.pbix # Power BI dashboard file
+└── README.md                  # Project overview and instructions
+
 ```
 
 ---
