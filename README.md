@@ -21,14 +21,16 @@ The project contains **three key pages**, each focusing on different dimensions 
 - Heatmap for daily order activity
 - Top customers by sales
 
-📍 **Preview:**
-![Customer Time Patterns](./Dashboard_images/Customer_time_patterns)
-
 ### 3. **Product & Payment Insights**
 - Average order value and total revenue per coffee category
 - Most popular coffee types by order count
 - Daily revenue trend by day of the week
 - Summary metrics for revenue, order volume, and customer count
+
+## 📊 Dashboards Preview
+
+### 1. Customer Time Patterns  
+<img src="Dashboard_images/Customer_time_patterns.png" width="600"/>
 
 ---
 
