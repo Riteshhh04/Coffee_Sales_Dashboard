@@ -32,6 +32,11 @@ The project contains **three key pages**, each focusing on different dimensions 
 ### 1. Customer Time Patterns  
 <img src="Dashboard_images/Customer_time_patterns.png" width="600"/>
 
+### 2. Coffee Sales Summary  
+<img src="Dashboard_images/Coffee_sales_summary.png" width="600"/>
+
+### 3. Product and Payment Insights  
+<img src="Dashboard_images/product_and_payment_insights.png" width="600"/>
 ---
 
 ## 📁 Folder Structure
